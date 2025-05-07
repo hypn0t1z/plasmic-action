@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@plasmicapp/react-web": "^0.2.383",
-    "@suinovaapp/cli": "^0.1.337",
+    "@suinovaapp/cli": "latest",
     "@types/node": "^14.14.37",
     "@types/semver": "^7.3.13",
     "@types/socket.io-client": "^3.0.0",
